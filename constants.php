@@ -5,7 +5,7 @@ define('STUDENT_NAME', 'Vu Huu Nhat Minh');
 // [ACTION REQUIRED] your Student ID
 define('STUDENT_ID', 'SWH03022');
 // [ACTION REQUIRED] your tutorial session
-define('TUTORIAL_SESSION', 'COS20019');
+define('TUTORIAL_SESSION', 'Friday 1PM');
 
 // S3 Bucket Info
 define('BUCKET_NAME', 'cos20019-photoalbum-nhatminh-swh03022'); // Put your real bucket name here
